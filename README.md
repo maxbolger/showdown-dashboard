@@ -1,4 +1,4 @@
-# [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+# [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/maxbolger/showdown-dashboard/main)
 
 # DraftKings NFL Showdown Dashboard
 
@@ -30,7 +30,7 @@ This web app runs analyses on DraftKings NFL Showdown contests.
    - A heatmap showing all CPT/FLEX combos for players with more than a 5% total roster rate
    - Shows the percentage of all lineups that had a certain CPT and FLEX pairing
 
-### **Click the badge above or [CLICK HERE]() to visit the app!**
+### **Click the badge above or [CLICK HERE](https://share.streamlit.io/maxbolger/showdown-dashboard/main) to visit the app!**
 
 
 ### By: Max Bolger [@mnpykings](https://twitter.com/mnpykings), 2020
